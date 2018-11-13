@@ -1,0 +1,16 @@
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700,900&subset=cyrillic");
+
+/***slider***/
+@import url(../js/slick/slick-theme.css);
+@import url(../js/slick/slick.css);
+
+@import 'animate.css';
+@import 'fonts.css';
+
+@import 'reset.css';
+@import 'elem.css';
+
+@import 'main.css';
+
+@import 'responsive.css';

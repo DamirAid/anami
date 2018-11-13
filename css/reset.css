@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  outline: none;
+
+/* для select */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  border-radius: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  
+}

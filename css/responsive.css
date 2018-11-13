@@ -1,0 +1,43 @@
+/*.all_btn, .article, p, h3, .flex, .inp, table, select, ul,
+padding, margin, height, font-size, :before, :after*/
+
+
+@media only screen and (max-width: 1170px){   
+   .container { width: 1024px; }
+	.item{margin: 0 auto 35px;	}
+	.slide_img	{width: 40%;}
+}
+
+
+
+
+@media only screen and (max-width: 1023px){ 
+   .container { width: 768px; }
+   .slide_text{margin-left: 50px;}
+}
+
+
+
+
+@media only screen and (max-width: 767px){
+    .container { width: 568px; }
+    .slide_text,.slide_img{width: 100%;}
+    .slide_text{margin-left: 0; padding: 0 15px;}
+    .slider_wrap p{font-size: 20px; }
+}
+
+
+
+
+@media only screen and (max-width: 567px){
+    .container { width: 320px; }
+    .item .img_wrap{width: 100%; }
+    .item{width: 270px;}
+     h4{font-size: 20px;}
+     h3{font-size: 27px;}
+     .article, p{font-size: 15px !important; }
+     .slider_wrap p{
+     	padding: 0 15px;
+     }
+     .top_mnu ul li a{font-size: 27px;}
+}
